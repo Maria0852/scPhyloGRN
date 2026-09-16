@@ -114,4 +114,4 @@ python src/validate_scPhyloGRN_predictions.py \
 
 ## Availability
 
-Source code is hosted at <https://github.com/Maria0852/LinTopoGRN>. The manuscript cites the versioned Zenodo archive at <https://doi.org/10.5281/zenodo.19914744>. Update the repository release and Zenodo version together so that the archived source, notebooks, and packaged quickstart assets remain identical.
+Source code is hosted at <https://github.com/Maria0852/scPhyloGRN>. The manuscript cites the versioned Zenodo archive at <https://doi.org/10.5281/zenodo.19914743>. Update the repository release and Zenodo version together so that the archived source, notebooks, and packaged quickstart assets remain identical.
