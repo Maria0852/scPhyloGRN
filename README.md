@@ -95,7 +95,7 @@ python src/validate_scPhyloGRN_predictions.py \
 ## Examples
 
 - [`examples/training_demo/scPhyloGRN_training_demo.ipynb`](examples/training_demo/scPhyloGRN_training_demo.ipynb) generates compact synthetic inputs, trains the actual model for a few epochs, and inspects the exported edge scores. It is a functional smoke test and interface tutorial, not a biological benchmark.
-- [`examples/quickstart/scPhyloGRN_quickstart.ipynb`](examples/quickstart/scPhyloGRN_quickstart.ipynb) is an executed CPU tutorial for scoring gene pairs with the packaged trained decoder and fixed encoder embeddings. Its manifest verifies the bundled model assets before loading. See [`examples/quickstart/START_HERE_ZH.md`](examples/quickstart/START_HERE_ZH.md) for Chinese instructions.
+- [`examples/quickstart/scPhyloGRN_quickstart.ipynb`](examples/quickstart/scPhyloGRN_quickstart.ipynb) is a standalone inference tutorial for scoring gene pairs with the packaged trained decoder and fixed encoder embeddings. Its manifest verifies the bundled model assets before loading. See [`examples/quickstart/START_HERE_ZH.md`](examples/quickstart/START_HERE_ZH.md) for Chinese instructions.
 
 ## Reproducibility notes
 
