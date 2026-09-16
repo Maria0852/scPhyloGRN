@@ -1,4 +1,4 @@
-name: LinTopoGRN
+name: scPhyloGRN
 channels:
   - pytorch
   - conda-forge

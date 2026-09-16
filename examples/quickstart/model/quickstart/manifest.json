@@ -1,0 +1,7 @@
+{
+  "sha256": {
+    "embeddings.npy": "4ad06b226099ecb4f4e712be9ec2a27567ab1d7b41f0f49537d9cc61cc7a9627",
+    "decoder.pt": "66f4265e7b7da5bdbc4846b3eed60d5d575afcdcacf655723e244332b8e35b3c",
+    "metadata.json": "e158ec89a0302f64b05da62188781c7c7fe840c5f9af4a9b0694cfdd727c4992"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "compared_pairs": 133,
+  "max_abs_logit_error": 2.86102294921875e-06,
+  "training_export_pairs": 500,
+  "training_export_max_abs_logit_error": 4.082763672030865e-06,
+  "previous_fixture_max_abs_logit_change": 0.5519767114135741,
+  "cpu_scoring_seconds": 0.012676327023655176,
+  "cpu_threads": 4,
+  "job_id": "18008",
+  "cache_bytes": 6402031
+}
